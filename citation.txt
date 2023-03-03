@@ -1,0 +1,8 @@
+@article{KADKHODAEI2021115369,
+title = {Big Data Classification Using Heterogeneous Ensemble Classifiers in Apache Spark based on MapReduce Paradigm},
+journal = {Expert Systems with Applications},
+volume = {183},
+pages = {115369},
+year = {2021},
+author = {Hamidreza Kadkhodaei and Amir Masoud {Eftekhari Moghadam} and Mehdi Dehghan}
+}
