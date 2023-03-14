@@ -1,0 +1,8 @@
+@article{REPO-023,
+    author = "Kadkhodaei, Hamidreza and {Eftekhari Moghadam}, Amir Masoud and Dehghan, Mehdi",
+    journal = "Expert Systems with Applications",
+    pages = "115369",
+    title = "{Big Data Classification Using Heterogeneous Ensemble Classifiers in Apache Spark based on MapReduce Paradigm}",
+    volume = "183",
+    year = "2021"
+}
